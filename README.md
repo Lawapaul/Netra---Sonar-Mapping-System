@@ -33,5 +33,5 @@ and visualization integration.
 - 3D environment mapping
 - Integration with mobile platforms
 
--![Netra Sonar Demo](images/netra_demo.jpg)
+-![Netra Sonar Demo](/netra_demo.jpg)
 
